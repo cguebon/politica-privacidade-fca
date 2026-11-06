@@ -4,7 +4,7 @@
 
 Esta política explica como a FCA Odontologia trata os dados de quem conversa com a clínica pelo WhatsApp, inclusive quando o atendimento é feito por um assistente automático com inteligência artificial.
 
-A responsável pelos dados tratados neste atendimento é a FCA ODONTOLOGIA LTDA, CNPJ 11.219.657/0001-60, com sede na Rua Conselheiro Saraiva, 306, Sala 63, Santana, São Paulo/SP, CEP 02037-020.
+A responsável pelos dados tratados neste atendimento é a FERNANDA COELHO ALMEIDA ODONTOLOGIA LTDA (FCA Odontologia), CNPJ 54.814.432/0001-65, com sede na Rua Conselheiro Saraiva, 306, Sala 63, Santana, São Paulo/SP, CEP 02037-020.
 
 Encarregada pelo tratamento de dados (DPO): Fernanda Coelho, fcaodontologia@fcaodontologia.com.
 
